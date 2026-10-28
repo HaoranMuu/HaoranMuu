@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Haoran Mu from China, and I am a undergraduate student studying in Shanghai Jiao Tong University. I am currently learning deep learning. A beginner I am, so just go and see what I am gonna create.
+
+Reach me by my email: haoranmu50@gmail.com or haoranmu@sjtu.edu.cn
